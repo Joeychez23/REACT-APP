@@ -1,0 +1,42 @@
+body {
+  /*padding: 50px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#contents {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.score {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.dataList {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.dataList li {
+  display: block
+}
+
+#data {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#MongoBox h4 {
+  text-decoration: underline;
+}
