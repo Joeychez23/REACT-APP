@@ -51,7 +51,7 @@ function Home() {
             <h4>Cloud: AWS</h4>
             <h4>Build: React</h4>
             <h4>Server: Node.js</h4>
-            <h4>App: Express()</h4>
+            <h4>Hello: Express()</h4>
             <h4>Database: MongoDB</h4><br></br>
              <> {
               <App />
