@@ -47,7 +47,7 @@ function App() {
 function Home() {
     return (
         <div id="contents"> 
-            <h1>Hi Kaylie</h1>
+            <h1>M.E.R.N Example</h1>
             <h4>Cloud: AWS</h4>
             <h4>Build: React</h4>
             <h4>Server: Node.js</h4>
